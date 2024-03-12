@@ -1,2 +1,3 @@
 # wireguard-go-vsock
-This is WireGuard over VSOCK for Nitro Enclaves
+
+This project moved to [github.com/seedcx/wireguard-go-vsock](github.com/seedcx/wireguard-go-vsock).
